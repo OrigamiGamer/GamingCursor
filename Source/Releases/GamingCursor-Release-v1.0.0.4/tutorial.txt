@@ -1,0 +1,6 @@
+[Ctrl+Alt+E]: End the process
+[Ctrl+Alt+U]: Switch GamingCursor Mode
+
+[WASD]: Move the cursor
+[J/K]: Left/Right cursor click
+[Shift+WASD]: Speed up
