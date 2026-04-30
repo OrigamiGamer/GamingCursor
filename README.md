@@ -6,7 +6,7 @@
 ## Manual (English):
 
 - `Ctrl`+`Alt`+`E`: End the process.
-- `Ctrl`+`Alt`+`U: Switch mode of GamingCursor: ON/OFF.
+- `Ctrl`+`Alt`+`U`: Switch mode of GamingCursor: ON/OFF.
 
 - `WASD`: Move the cursor.
 - `J`/`K`: Click Left/Right button of cursor.
