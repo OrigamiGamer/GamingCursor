@@ -1,5 +1,5 @@
 # Intro
-- A simple kit to control your mouse like game character with your keyboard(`WASD`) at customized movement speed.
+- A simple kit to control your cursor like game character with your keyboard(`WASD`) at customized movement speed.
 - 一个简易的工具，用键盘(`WASD`)像控制游戏角色一样来控制你的鼠标指针，并支持自定义移动速度。
 
 
